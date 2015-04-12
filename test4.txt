@@ -1,0 +1,4 @@
+onCreate():1
+onStart():3
+onResume():3
+onRestart():0
